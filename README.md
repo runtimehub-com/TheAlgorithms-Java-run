@@ -20,4 +20,4 @@ If you are also a developer, this site will continuously bring you more debuggin
 Just try this [demo](https://RuntimeHub.com/p/javaTestDemo@20240523:main/index.html) !<br>
 快来看看这个 [demo](https://RuntimeHub.com/p/javaTestDemo@20240523:main/index.html) ！
 
-![RuntimeHub.com:javaTestDemo]((https://RuntimeHub.com/assets/images/p/javaTestDemo@20240729.1122.html.png)
+![RuntimeHub.com:javaTestDemo](https://RuntimeHub.com/assets/images/p/javaTestDemo@20240729.1122.html.png)
